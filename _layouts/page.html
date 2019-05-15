@@ -3,11 +3,13 @@ layout: default
 ---
 
 {% if page.related %}
-  {% assign id_name = "sprflt" %}
+  {% assign page_id = "sprflt" %}
+  {% assign page_class = "left-column" %}
 {% else %}
-  {% assign id_name = "noflt" %}
+  {% assign page_id = "noflt" %}
+  {% assign page_class = "single-column" %}
 {% endif %}
-<div class="row" id="{{ id_name }}">
+<div class="row" id="{{ page_id }}" class="{{ page_class }}">
   <div class="main-content" id="main" role="main">
     
     <h1 class="page-title" id="title">{{ page.title }}</h1>
@@ -31,13 +33,9 @@ layout: default
     <div class="sidebar" id="subNav" role="navigation">
             
     <ul>
-      <li><a class="current" href="index.html">Graduate Program</a></li>
-      <li><a href="programlearningoutcomes.html">Program Learning Outcomes</a></li>
-      <li><a href="ma-program/index.html">M.A. Program</a></li>
-      <li><a href="phd-program/index.html">Ph.D. Program</a></li>
-      <li><a href="apply/index.html">Apply</a></li>
-      <li><a href="Graduate Student Directory/index.php">Graduate Student Directory</a></li>
-      <li><a href="alumni/index.html">Alumni</a></li>
+    {% for link in page.related %}
+      <li><a href="{{ link.url }}">{{ link.title }}</a></li>      
+    {% endfor %}
     </ul>
   
     </div>

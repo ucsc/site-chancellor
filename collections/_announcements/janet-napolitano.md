@@ -12,7 +12,7 @@ The Board of Regents has just approved Dr. Cynthia K. Larive as the eleventh cha
 
 I believe the breadth and scope of Dr. Larive's academic credentials and knowledge, combined with her incredible dedication and passion for UC, make her the ideal visionary to lead UC Santa Cruz.
 
-You can read more about her in our press release.
+You can read more about her in our [press release](https://www.universityofcalifornia.edu/press-room/uc-board-regents-approves-new-ucsc-chancellor).
 
 I also want to take a moment to thank Chancellor George Blumenthal for his strong leadership over the past 12 years. He leaves behind a legacy of academic excellence and a staunch commitment to UC's public mission.
 
