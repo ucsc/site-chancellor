@@ -2,9 +2,45 @@
 layout: default
 ---
 
+{% if page.related %}
+  {% assign id_name = "sprflt" %}
+{% else %}
+  {% assign id_name = "noflt" %}
+{% endif %}
+<div class="row" id="{{ id_name }}">
+  <div class="main-content" id="main" role="main">
+    
+    <h1 class="page-title" id="title">{{ page.title }}</h1>
 
-          <div class="row">
-            <div class="main-content">
-              {{ content }}
-            </div>
-          </div>
+    {% if page.image %}
+    <div class="banners bannerBox" id="bannerBox">
+      <img alt="{{ page.image.text }}" id="banner" src="{{ page.image.url }}">
+      {% if page.image.description %}
+      <p class="caption">{{ page.image.description }}</p>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    <div class="content contentBox">
+      {{ content }}
+    </div>
+    
+  </div>
+  
+  {% if page.related %}                  
+    <div class="sidebar" id="subNav" role="navigation">
+            
+    <ul>
+      <li><a class="current" href="index.html">Graduate Program</a></li>
+      <li><a href="programlearningoutcomes.html">Program Learning Outcomes</a></li>
+      <li><a href="ma-program/index.html">M.A. Program</a></li>
+      <li><a href="phd-program/index.html">Ph.D. Program</a></li>
+      <li><a href="apply/index.html">Apply</a></li>
+      <li><a href="Graduate Student Directory/index.php">Graduate Student Directory</a></li>
+      <li><a href="alumni/index.html">Alumni</a></li>
+    </ul>
+  
+    </div>
+  {% endif %}
+
+</div>

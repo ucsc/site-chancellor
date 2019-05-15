@@ -28,6 +28,16 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+collections_dir: collections
+collections:
+  announcements:
+    label: "announcements"
+    output: true
+  links:
+    label: "links"
+    output: false
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
