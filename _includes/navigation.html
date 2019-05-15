@@ -1,0 +1,12 @@
+<ul id="mainNav">
+  {% assign sorted_pages = (site.pages | sort: 'order') %}
+  {% for item in sorted_pages %}
+    {% if item.menu == true %}
+      {% if page.url == item.url %}
+        <li><a href="{{ item.url }}" class="current">{{ item.title }}</a></li>
+      {% else %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>

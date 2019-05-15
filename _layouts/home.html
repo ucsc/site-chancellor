@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+        {% if page.hero %}
+          <section class="row hero">
+            <div class="hero-area">
+            <a href="#">
+              <img src="{{ page.hero.url }}" alt="{{ page.hero.text }}">               
+              <div class="text">
+                <h2>{{ page.hero.headline }}</h2>
+                <p>{{ page.hero.description }}</p>
+              </div>
+            </a>
+            </div>              
+          </section>            
+        {% endif %}
+
+          <div class="row">
+            <div class="main-content">
+              {{ content }}
+            </div>
+          </div>
+
+         <div class="row three separate dark">
+         
+            <div class="wrap">
+              <div class="block profile-block" id="profile">
+                <h3 class="block-header">Header</h3>
+                <div class="inner">                  
+                  <a class="upTitle" href="#">Link</a>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore nam impedit sequi, necessitatibus dolore placeat labore rem ullam nulla voluptas deleniti officiis ducimus dolorum modi maiores assumenda quam ratione omnis!
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="wrap">
+              <div class="block profile-block" id="profile">
+                <h3 class="block-header">Header</h3>
+                <div class="inner">                  
+                  <a class="upTitle" href="#">Link</a>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos voluptates nesciunt, est suscipit non necessitatibus? Ratione voluptate, officiis, a itaque eaque sunt cum quis dolores, facilis sapiente, laboriosam molestias inventore?
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="wrap">
+              <div class="block profile-block" id="profile">
+                <h3 class="block-header">Header</h3>
+                <div class="inner">                  
+                  <a class="upTitle" href="#">Link</a>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque animi accusamus nobis obcaecati, architecto aperiam culpa et. Facilis nemo atque quam nobis eos ipsum vitae perferendis, facere labore voluptate itaque!
+                  </p>
+                </div>
+              </div>
+            </div>
+
+          </div>

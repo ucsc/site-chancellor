@@ -1,0 +1,54 @@
+@media screen and (min-width: 48em) {
+    .hero-area.layout-left {
+        width: 100%;
+        max-width: 50%;
+        margin: 2% 0;
+    }
+    .hero-area.layout-left {
+        left: 0;
+    }
+    .color-gold {
+        background-color: #f1af13;
+    }
+}
+
+@media screen and (min-width: 48em) {
+
+.hero-area {
+    width: 100%;
+    bottom: 0;
+    z-index: 1;
+    position: relative;
+    
+    .text {
+        position: absolute;
+        bottom: 2em;
+        left: 0;
+        background-color: rgba(239, 174, 46, 1);
+        padding: 1em 2em;
+        max-width: 26em;
+        font-size: 1.1rem;
+
+
+        h2, p {
+            color: rgba(7, 71, 138, 1.00);
+            margin: 0 0 .25em 0;            
+        }
+
+        h2 {
+            font-weight: 600;
+        }
+    } 
+}
+
+
+
+}
+
+.names .secondary-name p {
+    text-transform: none;
+}
+
+.separate .inner {
+    min-height: auto;
+}
