@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A campus celebrates
-menu: true
+menu: false
 order: 3
 ---
 
