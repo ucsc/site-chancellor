@@ -37,6 +37,12 @@ collections:
     label: "links"
     output: false
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/cl-web.jpg
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -2,6 +2,8 @@
 layout: page
 date: 2019-05-15 07:00:00
 title: "UC Riverside Provost Cynthia K. Larive to become UC Santa Cruz's 11th chancellor"
+canonical_url: https://www.universityofcalifornia.edu/press-room/uc-board-regents-approves-new-ucsc-chancellor
+description: "The University of California Board of Regents approved today (May 16) Dr. Cynthia K. Larive as the eleventh chancellor of UC Santa Cruz."
 ---
 
 **FOR IMMEDIATE RELEASE**
