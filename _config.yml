@@ -22,6 +22,7 @@ url: "https://leadership.ucsc.edu" # the base hostname & protocol for your site,
 
 # Build settings
 markdown: kramdown
+permalink: /:year/:month/:title:output_ext
 
 plugins:
   - jekyll-feed
