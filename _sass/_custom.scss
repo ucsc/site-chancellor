@@ -69,3 +69,8 @@
 #main {
     flex-grow: 1;
 }
+
+.main-content :first-child {
+    margin-top: 0;
+    padding-top: 0; 
+}
