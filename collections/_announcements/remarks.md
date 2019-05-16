@@ -1,7 +1,7 @@
 ---
 layout: page
 date: 2019-05-15 09:00:00
-title: "Remarks from Cynthia Larive on her appointment as the 11th chancellor of UC Santa Cruz"
+title: "Remarks from Cynthia K. Larive on her appointment as the 11th chancellor of UC Santa Cruz"
 ---
 
 I am humbled and honored to have the opportunity to serve as the 11^th^ chancellor of the University of California, Santa Cruz, an institution that embodies the best attributes of the University of California.

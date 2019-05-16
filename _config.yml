@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Chancellor Cynthia Larive
+title: Chancellor Cynthia K. Larive
 email: chancelloroffice@ucsc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Cynthia K. Larive is the eleventh Chancellor of University of California Santa Cruz. She will begin her tenure on July 1, 2019. Chancellor Larive’s career has been marked by her commitment to student success, inclusion and equity.
