@@ -5,6 +5,7 @@ title: "Campus prepares to welcome incoming chancellor Cynthia Larive"
 menu:
     text: The campus reaction
     order: 4
+description: "Collaborative. Energetic. Prepared. Ready to engage. These are a few of the ways members of the chancellor's search committee described incoming chancellor Cynthia K. Larive, who will take office July 1."
 ---
 
 <figure class="lead-image article-image">
