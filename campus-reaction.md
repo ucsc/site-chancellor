@@ -12,7 +12,7 @@ menu:
     <figcaption class="caption">Chancellor-designate Cynthia K. Larive (Photo by C. Lagattuta)</figcaption>
 </figure>
 
-By: Jennifer McNulty 
+By Jennifer McNulty 
 
 Collaborative. Energetic. Prepared. Ready to engage.
 
