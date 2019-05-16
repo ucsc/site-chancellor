@@ -2,7 +2,7 @@
 layout: page
 title: About Cynthia K. Larive
 menu:
-    text: About Cynthis K. Larive
+    text: About Cynthia K. Larive
     order: 1
 related:
     - title: "Press photo"
