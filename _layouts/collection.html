@@ -10,10 +10,31 @@ layout: default
         {{ content }}
 
         {% assign c = page.collection %}
-        <ul class="{{ page.collection }}">
-        {% for item in site[c] %}
-            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endfor %}
-        </ul>
+
+        {% if c == 'links' %}
+
+          <ul class="{{ c }}">
+          {% for item in site[c] %}
+            <li>
+              <a href="{{ item.link }}">
+                <span class="date">{{ item.date | date: "%B %d, %Y" }} - </span>
+                <span class="source">{{ item.source }}</span>
+                <h3>{{ item.title }}</h3>
+                {{ item.content | markdownify }}
+              </a>
+            </li>
+          {% endfor %}
+          </ul>
+        
+        {% else %}
+
+          <ul class="{{ c }}">
+          {% for item in site[c] %}
+              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endfor %}
+          </ul>
+
+        {% endif %}
+
       </div>
     </div>
