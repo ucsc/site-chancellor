@@ -1,6 +1,6 @@
 ---
 layout: page
-date: 2019-05-15 09:00:00
+date: 2019-05-15 12:00:00
 title: "Remarks from Cynthia K. Larive on her appointment as the 11th chancellor of UC Santa Cruz"
 ---
 

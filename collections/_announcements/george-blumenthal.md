@@ -1,7 +1,8 @@
 ---
 layout: page
-date: 2019-05-15 012:30:00
+date: 2019-05-15 012:45:00
 title: "Message from retiring chancellor George Blumenthal"
+draft: true
 ---
 
 I am delighted to see the appointment of Cindy Larive, campus provost and executive vice chancellor at UC Riverside, as our new chancellor. I invite you to [watch this video of Cindy that was just put together by our campus communications team!](https://www.youtube.com/watch?v=-YcTctiMrZw)
