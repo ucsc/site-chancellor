@@ -1,11 +1,11 @@
 <ul id="mainNav">
   {% assign sorted_pages = (site.pages | sort: 'order') %}
   {% for item in sorted_pages %}
-    {% if item.menu == true %}
+    {% if item.menu %}
       {% if page.url == item.url %}
-        <li><a href="{{ item.url }}" class="current">{{ item.title }}</a></li>
+        <li><a href="{{ item.url }}" class="current">{{ item.menu.text }}</a></li>
       {% else %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        <li><a href="{{ item.url }}">{{ item.menu.text }}</a></li>
       {% endif %}
     {% endif %}
   {% endfor %}

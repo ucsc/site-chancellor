@@ -2,7 +2,8 @@
 layout: collection
 collection: announcements
 title: The announcement
-menu: true
-order: 2
+menu:
+    text: The annoucement
+    order: 2
 ---
 

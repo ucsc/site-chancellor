@@ -3,7 +3,7 @@ layout: page
 date: 2019-05-16 03:00:00
 title: "Campus prepares to welcome incoming chancellor Cynthia Larive"
 menu:
-    text: Campus reaction
+    text: The campus reaction
     order: 4
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About Cynthia K. Larive
-menu: true
-order: 1
+menu:
+    text: About Cynthis K. Larive
+    order: 1
 related:
     - title: "Press photo"
       url: /assets/images/cl-web.jpg
