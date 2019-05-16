@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Chancellor Larive
+title: About Cynthia K. Larive
 menu: true
 order: 1
 related:
@@ -14,7 +14,7 @@ Cynthia K. Larive was confirmed as the eleventh Chancellor of University of Cali
 
 A common thread throughout Larive's career has been her commitment to student success, inclusion and equity. She has led programs for undergraduate research and curricular innovation and has written over two dozen articles on active learning, mentoring and experiential learning. Larive has also been active in encouraging the participation and success of women and others who have been underrepresented in STEM fields, including service as co-PI of an institutional NSF Advance grant. She is a collaborative leader who is committed to the principles of shared governance.
 
-An accomplished bioanalytical chemist, Larive comes to UC Santa Cruz from UC Riverside where she has been on the faculty since 2005 and is currently Provost and Executive Vice Chancellor. As Provost, she is responsible for the academic enterprise, managing large scale initiatives as well as the daily operations of the UC Riverside campus, developing academic and administrative policies, and working closely with the Chancellor, the Academic Senate, and the Deans of UCR\'s colleges, schools, and divisions to formulate and realize campus goals. Since 2012, she has served in a variety of administrative roles including Vice Provost for Undergraduate Education, Divisional Dean of Physical Sciences and Mathematics, interim Dean of the College of Natural & Agricultural Sciences, and Chair of the Department of Chemistry.
+An accomplished bioanalytical chemist, Larive comes to UC Santa Cruz from UC Riverside where she has been on the faculty since 2005 and is currently Provost and Executive Vice Chancellor. As Provost, she is responsible for the academic enterprise, managing large scale initiatives as well as the daily operations of the UC Riverside campus, developing academic and administrative policies, and working closely with the Chancellor, the Academic Senate, and the Deans of UCR's colleges, schools, and divisions to formulate and realize campus goals. Since 2012, she has served in a variety of administrative roles including Vice Provost for Undergraduate Education, Divisional Dean of Physical Sciences and Mathematics, interim Dean of the College of Natural & Agricultural Sciences, and Chair of the Department of Chemistry.
 
 Before arriving at UCR, Larive was a professor of chemistry at the University of Kansas, where she began what has become a productive and successful research career. She has over 155 publications, has mentored 30 Ph.D and M.S. students, and received funding to support her research from the National Science Foundation, National Institutes of Health, U.S. Department of Agriculture, Environmental Protection Agency, and a range of foundation and corporate grant makers. Larive is a fellow of the American Association for the Advancement of Science and the American Chemical Society, serves an Associate Editor for Analytical Chemistry, and has received campus and national awards for her teaching, research and leadership.
 
