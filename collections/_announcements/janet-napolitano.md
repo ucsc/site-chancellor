@@ -1,7 +1,7 @@
 ---
 layout: page
 date: 2019-05-15 11:50:00
-title: "Message from UC president Janet Napolitano"
+title: "Message from UC President Janet Napolitano"
 ---
 
 Colleagues,
