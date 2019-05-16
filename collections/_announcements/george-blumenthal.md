@@ -1,6 +1,6 @@
 ---
 layout: page
-date: 2019-05-15 08:30:00
+date: 2019-05-15 012:30:00
 title: "Message from retiring chancellor George Blumenthal"
 ---
 
