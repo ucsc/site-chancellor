@@ -18,7 +18,7 @@ I also want to take a moment to thank Chancellor George Blumenthal for his stron
 
 While this is a bittersweet moment for all of us, George has more than earned his retirement after a career with UC that spanned 47 years!
 
-Please join me in congratulating Dr. Larive's in her new role as chancellor, effective July 1, and Chancellor Blumenthal in his well-deserved retirement.
+Please join me in congratulating Dr. Larive in her new role as chancellor, effective July 1, and Chancellor Blumenthal in his well-deserved retirement.
 
 Yours very truly,
 
