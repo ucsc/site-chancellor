@@ -4,7 +4,7 @@ date: 2019-05-15 09:00:00
 title: "Remarks from Cynthia K. Larive on her appointment as the 11th chancellor of UC Santa Cruz"
 ---
 
-I am humbled and honored to have the opportunity to serve as the 11^th^ chancellor of the University of California, Santa Cruz, an institution that embodies the best attributes of the University of California.
+I am humbled and honored to have the opportunity to serve as the 11th chancellor of the University of California, Santa Cruz, an institution that embodies the best attributes of the University of California.
 
 UC Santa Cruz is a campus of unparalleled beauty with a unique tradition of innovation and purpose. To paraphrase a quote from the 1965 UC Santa Cruz Charter Address by Ansel Adams "As in science and art -- whenever the opportunity for a new expression, a new concept, a new daring, presents itself -- we should leap at the opportunity, our impetuous embrace of the future tempered only by a clear awareness of past experience. Here at Santa Cruz we have the promise of a superb future." More than a half-century later, it is clear that UC Santa Cruz lives up to the promise of the future that Adams predicted.
 
