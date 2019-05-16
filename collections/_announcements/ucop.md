@@ -37,6 +37,6 @@ An accomplished bioanalytical chemist, Larive earned her bachelor's degree in ch
 
 Larive will start as UC Santa Cruz's new chancellor on July 1.
 
-The board approved her salary at \$425,000, well below the compensation rate for such positions in similar markets. UC chancellors are among the [lowest-paid](https://ucop.edu/institutional-research-academic-planning/_files/uc-aau-university-leaders-comparative-compensation.pdf) university leaders when compared with their Association of American University (AAU) peers.
+The board approved her salary at $425,000, well below the compensation rate for such positions in similar markets. [UC chancellors are among the lowest-paid](https://ucop.edu/institutional-research-academic-planning/_files/uc-aau-university-leaders-comparative-compensation.pdf) university leaders when compared with their Association of American University (AAU) peers.
 
-Larive, 62, is married to Jim Larive and they have two daughters, Erin and Megan.
+Larive, 61, is married to Jim Larive and they have two daughters, Erin and Megan.
