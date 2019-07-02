@@ -4,8 +4,6 @@ title: About Cynthia K. Larive
 menu: "About"
 order: 1
 related:
-  - title: "Contact Chancellor Larive"
-    url: /contact
   - title: "Participation request form"
     url: "https://www2.ucsc.edu/chancellor/chancellors-participation-form/"
   - title: "Press photo"
