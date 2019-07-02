@@ -1,17 +1,20 @@
 ---
 layout: page
 title: About Cynthia K. Larive
-menu:
-    text: About Cynthia K. Larive
-    order: 1
+menu: "About"
+order: 1
 related:
-    - title: "Press photo"
-      url: /assets/images/cl-web.jpg
+  - title: "Contact Chancellor Larive"
+    url: /contact
+  - title: "Participation request form"
+    url: "https://www2.ucsc.edu/chancellor/chancellors-participation-form/"
+  - title: "Press photo"
+    url: /assets/images/cl-web.jpg
 ---
 
 {% asset designate-web.jpg @magick:resize=672 alt='Cynthia K. Larive' %}
 
-Cynthia K. Larive was confirmed as the eleventh Chancellor of University of California Santa Cruz by the UC Board of Regents on May 16, 2019. She will begin her tenure on July 1, 2019.
+Cynthia K. Larive was confirmed as the eleventh Chancellor of University of California Santa Cruz by the UC Board of Regents on May 16, 2019. She began her tenure on July 1, 2019.
 
 A common thread throughout Larive's career has been her commitment to student success, inclusion and equity. She has led programs for undergraduate research and curricular innovation and has written over two dozen articles on active learning, mentoring and experiential learning. Larive has also been active in encouraging the participation and success of women and others who have been underrepresented in STEM fields, including service as co-PI of an institutional NSF Advance grant. She is a collaborative leader who is committed to the principles of shared governance.
 
