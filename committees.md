@@ -12,7 +12,7 @@ related:
     url: "https://www2.ucsc.edu/chancellor/chancellors-participation-form/"
 ---
 
-[Six administrative committees](/assets/pdfs/chancellor-committees.pdf) serve as advisory bodies to Chancellor Blumenthal in matters related to campus plans and strategies.
+[Six administrative committees](/assets/pdfs/chancellor-committees.pdf) serve as advisory bodies to the chancellor in matters related to campus plans and strategies.
 
 Each of the standing advisory committees listed below provides a forum for gathering constituency input and for discussing issues of concern to the campus, the UC system, and the surrounding community. These committees provide advice and recommend policy, but are not decision-making bodies.
 
