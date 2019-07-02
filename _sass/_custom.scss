@@ -45,6 +45,22 @@
     }    
 }
 
+.main-navigation .current,
+.main-navigation .current:focus,
+.main-navigation .current:hover,
+.main-navigation .current:active   {
+  text-decoration: none;
+  border-bottom: 2px solid #CDECFF !important;
+  color: #000000 !important;
+}
+
+a:focus-visible {
+  color: #111111 !important;
+  background-color: #ffff00 !important;
+  border: none !important;
+  outline: 1px dotted #111111;
+  text-decoration: none !important;
+}
 
 
 .names .secondary-name p {
@@ -70,7 +86,7 @@
     flex-grow: 1;
 }
 
-.main-content :first-child {
+.main-content > :first-child {
     margin-top: 0;
     padding-top: 0; 
 }
