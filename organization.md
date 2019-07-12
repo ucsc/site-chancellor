@@ -4,10 +4,8 @@ title: The chancellor's office
 menu: "Organization"
 order: 2
 related:
-  - title: "UC Santa Cruz organization"
+  - title: "UCSC organization chart"
     url: "https://www.ucsc.edu/about/files/ucsc-organization-chart.pdf"
-  - title: "Participation request form"
-    url: "https://www2.ucsc.edu/chancellor/chancellors-participation-form/"
 ---
 
 ## [Anna Finn](https://campusdirectory.ucsc.edu/detail.php?type=people&uid=annaf)

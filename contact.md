@@ -3,7 +3,18 @@ layout: page
 title: Contact the Chancellor
 menu: "Contact"
 order: 5
+related:
+  - title: "Participation request form"
+    url: "https://www2.ucsc.edu/chancellor/chancellors-participation-form/"
 ---
+- Email: <chancellor@ucsc.edu> or use the form below.
+- Phone: 831-459-4291
+- Mailing address:  
+  Chancellor’s Office  
+  Kerr Hall, University of California Santa Cruz  
+  Santa Cruz, CA 95064
+
+## Contact form
 
 <form class="pa2 black-80" name="contact" method="POST" data-netlify="true">
   <div class="pa2">
