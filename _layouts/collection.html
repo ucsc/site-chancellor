@@ -11,9 +11,17 @@ layout: default
 
         {% assign c = page.collection %}
 
+        <ul class="{{ c }}">
+        
+        {% if page.data == 'messages' %}          
+            {% for link in site.data[page.data] %}
+              <li>{{ link.date | date: "%B %d, %Y" }} - <a href="{{ link.url }}">{{ link.title }}</a>
+              </li>
+            {% endfor %}
+        {% endif %}
+
         {% if c == 'links' %}
 
-          <ul class="{{ c }}">
           {% for item in site[c] %}
             <li>
               <a href="{{ item.link }}">
@@ -24,17 +32,16 @@ layout: default
               </a>
             </li>
           {% endfor %}
-          </ul>
         
         {% else %}
 
-          <ul class="{{ c }}">
           {% for item in site[c] %}
-              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+              <li>{{ item.date | date: "%B %d, %Y" }} - <a href="{{ item.url }}">{{ item.title }}</a></li>
           {% endfor %}
-          </ul>
 
         {% endif %}
+
+        </ul>
 
       </div>
     </div>
