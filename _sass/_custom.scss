@@ -4,6 +4,15 @@
     color: rgba(7, 78, 132, 1.00);
 }
 
+#sprflt {
+    .main-content,
+    .sidebar {
+        float: none;
+        margin: 0;
+        width: 100%;
+    }
+}
+
 @media screen and (min-width: 48em) {
     .hero-area.layout-left {
         width: 100%;
@@ -99,6 +108,23 @@ a:focus-visible {
         }
     }
 
+    .gsc-control-cse {
+        padding: 0 !important; 
+    }
+
+    #sprflt {
+        flex-direction: row-reverse;
+    }
+
+    #sprflt .main-content {
+        width: 75%;
+        margin-left: 1%;
+    }
+
+    #sprflt .sidebar {
+        width: 24%;
+    }
+
 
     .quote-block .inner {
 
@@ -125,3 +151,4 @@ a:focus-visible {
     }
 
 }
+

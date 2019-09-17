@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Search
+image: false
 ---
 
 <script>
