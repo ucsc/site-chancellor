@@ -11,9 +11,6 @@ related:
 ## [Anna Finn](https://campusdirectory.ucsc.edu/detail.php?type=people&uid=annaf)
 Associate Chancellor and Chief of Staff
 
-## [Ashish Sahni](https://campusdirectory.ucsc.edu/detail.php?type=people&uid=ashish)
-Special Assistant to the Chancellor
-
 ## [Teresa Maria Linda Scholz](https://campusdirectory.ucsc.edu/detail.php?type=people&uid=tscholz)
 Interim Assistant Vice Chancellor, Office for Diversity, Equity, and Inclusion
 
