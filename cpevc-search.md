@@ -1,11 +1,30 @@
 ---
 layout: page
-title: "2019-20 Campus Provost &amp; Executive Vice Chancellor search"
+title: "Recruiting for a Campus Provost and Executive Vice Chancellor"
 ---
 
-Application and nomination links to come. [See the position description](/assets/pdfs/cpevc-position-description.pdf). 
 
-## _Preliminary_ Search Timeline
+## To apply
+
+Applications are accepted via email to <UCSCCPEVC@kornferry.com>.
+ - Documents/materials must be submitted as PDF files.
+ - Please refer to **UCSC-CPEVC** in all correspondence.
+ - Applications must include:
+    - A brief statement of interest and qualifications
+    - Current curriculum vitae
+    - Statement of contributions to diversity
+
+## To nominate or recommend a colleague
+
+Nominations can be submitted to <UCSCCPEVC@kornferry.com>. Please refer to **UCSC-CPEVC** in all correspondence.
+
+## More information
+
+[See the position description](/assets/pdfs/cpevc-position-description.pdf) and [job announcement flyer](/assets/pdf/cpevc-search-2019.pdf) for more information.  
+
+Applicants may also contact executive search consultant John Amer at Korn Ferry via email <John.Amer@kornferry.com>.
+
+## _Preliminary_ recruitment timeline
 
 | October 2019 – January 2020 | Publicity and Outreach |
 | January 10, 2020 | Initial Review Date |
