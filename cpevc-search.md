@@ -7,11 +7,11 @@ Application and nomination links to come. [See the position description](/assets
 
 ## _Preliminary_ Search Timeline
 
-| October 2019 | January 2020: Publicity and Outreach |
+| October 2019 – January 2020 | Publicity and Outreach |
 | January 10, 2020 | Initial Review Date |
 | January 2020: | - Initial Applicant Selection<br>- First Round Applicant Interviews<br>- Selection of Candidates for Campus Visits |
-| February/March 2020 | Finalists Visit Campus |
-| March/April 2020 | Selection of Final Candidate |
+| February–March 2020 | Finalists Visit Campus |
+| March–April 2020 | Selection of Final Candidate |
 
 ## Questions?
 
