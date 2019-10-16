@@ -17,5 +17,4 @@ Application and nomination links to come. [See the position description](/assets
 
 Contact Andrea Cohen [via email](mailto:cpevc-search@ucsc.edu) or telephone 831-459-2380.
 
-  
 _Revised 10/16/2019_
