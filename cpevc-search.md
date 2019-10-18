@@ -3,10 +3,12 @@ layout: page
 title: "Recruiting for a Campus Provost and Executive Vice Chancellor"
 ---
 
+## About the position
+[See the position description](/assets/pdfs/cpevc-position-description.pdf) and [job announcement flyer](/assets/pdf/cpevc-search-2019.pdf) for more information.  
 
 ## To apply
 
-Applications are accepted via email to <UCSCCPEVC@kornferry.com>.
+Applications should be [sent by email](mailto:UCSCCPEVC@kornferry.com).
  - Documents/materials must be submitted as PDF files.
  - Please refer to **UCSC-CPEVC** in all correspondence.
  - Applications must include:
@@ -14,15 +16,7 @@ Applications are accepted via email to <UCSCCPEVC@kornferry.com>.
     - Current curriculum vitae
     - Statement of contributions to diversity
 
-## To nominate or recommend a colleague
-
-Nominations can be submitted to <UCSCCPEVC@kornferry.com>. Please refer to **UCSC-CPEVC** in all correspondence.
-
-## More information
-
-[See the position description](/assets/pdfs/cpevc-position-description.pdf) and [job announcement flyer](/assets/pdf/cpevc-search-2019.pdf) for more information.  
-
-Applicants may also contact executive search consultant John Amer at Korn Ferry via email <John.Amer@kornferry.com>.
+You can also [nominate or recommend a colleague](mailto:UCSCCPEVC@kornferry.com). Please refer to **UCSC-CPEVC** in all correspondence.
 
 ## _Preliminary_ recruitment timeline
 
@@ -34,6 +28,6 @@ Applicants may also contact executive search consultant John Amer at Korn Ferry 
 
 ## Questions?
 
-Contact Andrea Cohen [via email](mailto:cpevc-search@ucsc.edu) or telephone 831-459-2380.
+Contact Andrea Cohen [via email](mailto:cpevc-search@ucsc.edu) or telephone 831-459-2380. Applicants may also contact executive search consultant [John Amer via email](mailto:John.Amer@kornferry.com).
 
-_Revised 10/16/2019_
+_Revised 10/18/2019_
