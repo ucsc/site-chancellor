@@ -9,12 +9,12 @@ title: "Recruiting for a Campus Provost and Executive Vice Chancellor"
 ## To apply
 
 Applications should be [sent by email](mailto:UCSCCPEVC@kornferry.com).
- - Documents/materials must be submitted as PDF files.
- - Please refer to **UCSC-CPEVC** in all correspondence.
  - Applications must include:
     - A brief statement of interest and qualifications
     - Current curriculum vitae
     - Statement of contributions to diversity
+ - Documents/materials must be submitted as PDF files.
+ - Please refer to **UCSC-CPEVC** in all correspondence.
 
 You can also [nominate or recommend a colleague](mailto:UCSCCPEVC@kornferry.com). Please refer to **UCSC-CPEVC** in all correspondence.
 
