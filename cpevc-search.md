@@ -8,21 +8,19 @@ title: "Recruiting for a Campus Provost and Executive Vice Chancellor"
 
 ## To apply
 
-Applications should be [sent by email](mailto:UCSCCPEVC@kornferry.com).
- - Applications must include:
-    - A brief statement of interest and qualifications
-    - Current curriculum vitae
-    - Statement of contributions to diversity
- - Documents/materials must be submitted as PDF files.
- - Please refer to **UCSC-CPEVC** in all correspondence.
+Applications should be [sent by email](mailto:UCSCCPEVC@kornferry.com?subject=UCSC-CPEVC) and **must include**:
+- A brief statement of interest and qualifications
+- Current curriculum vitae
+- Statement of contributions to diversity
 
-You can also [nominate or recommend a colleague](mailto:UCSCCPEVC@kornferry.com). Please refer to **UCSC-CPEVC** in all correspondence.
+Please submit all materials as PDF files and refer to **UCSC-CPEVC** in all correspondence. You can also [nominate or recommend a colleague](mailto:UCSCCPEVC@kornferry.com?subject=UCSC-CPEVC).
 
 ## _Preliminary_ recruitment timeline
 
 | October 2019 – January 2020 | Publicity and Outreach |
 | January 10, 2020 | Initial Review Date |
-| January 2020: | - Initial Applicant Selection<br>- First Round Applicant Interviews<br>- Selection of Candidates for Campus Visits |
+| January 2020 | - Initial Applicant Selection<br>- First Round Applicant Interviews |
+| January–February 2020 | Selection of Candidates for Campus Visits |
 | February–March 2020 | Finalists Visit Campus |
 | March–April 2020 | Selection of Final Candidate |
 
