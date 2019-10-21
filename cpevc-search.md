@@ -28,4 +28,4 @@ Please submit all materials as PDF files and refer to **UCSC-CPEVC** in all corr
 
 Contact Andrea Cohen [via email](mailto:cpevc-search@ucsc.edu) or telephone 831-459-2380. Applicants may also contact executive search consultant [John Amer via email](mailto:John.Amer@kornferry.com).
 
-_Revised 10/18/2019_
+_Revised 10/21/2019_
