@@ -15,7 +15,7 @@ related:
 ---
 
 ## About the position
-[See the position description](/assets/pdfs/cpevc-position-description.pdf) and [job announcement flyer](/assets/pdf/cpevc-search-2019.pdf) for more information.  
+[See the position description](/assets/pdfs/cpevc-position-description.pdf) and [job announcement flyer](/assets/pdfs/cpevc-search-2019.pdf) for more information.  
 
 ## To apply
 
