@@ -26,7 +26,7 @@
 
 </head>
 
-<body class="home">
+<body class="home {{ page.title | slugify }}">
 
 <!-- Accessibility links. Hidden until they receive :focus -->
 <ul id="access-links">
@@ -57,7 +57,7 @@
                   <li><a href="https://www.ucsc.edu/visit/maps-directions.html">Maps</a></li>
                   <li><a href="https://www.ucsc.edu/tools/azindex.html" title="A to Z index of UCSC websites">A-Z Index</a></li>
                 </ul>
-                
+
                 <!-- Google Custom Search -->
                 <div class="search" role="search">
                 <form action="/search/" id="cse-search-box-site">
@@ -90,7 +90,7 @@
       </div>
 
     </div>
-    
+
 </div>
 
         <div id="main" role="main">
@@ -109,7 +109,7 @@
 </div>
               </div>
               <div class="footer-right">
-                  
+
 
     <div class="social-media">
       <a href="https://www.facebook.com/ucsantacruz/"><i aria-label="Follow us on Facebook" class="fab fa-facebook-f"></i></a>
@@ -118,9 +118,9 @@
     </div>
 
 <div class="links">
-            
-                            
-        <a href="mailto:{{ site.email }}">Feedback</a> 
+
+
+        <a href="mailto:{{ site.email }}">Feedback</a>
     </div>
 
               </div>
@@ -135,9 +135,9 @@
                   <li><a href="https://its.ucsc.edu/terms/">Privacy&nbsp;Policy&nbsp;&amp;&nbsp;Terms&nbsp;of&nbsp;Use</a></li>
                   <li><a href="https://safe.ucsc.edu">Sexual&nbsp;Violence&nbsp;Prevention&nbsp;&amp;&nbsp;Response</a></li>
                 </ul>
-                
+
               </div>
-          </div>   
+          </div>
         </div>
 
       </div><!-- /content -->

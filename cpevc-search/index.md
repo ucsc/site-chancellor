@@ -1,6 +1,17 @@
 ---
 layout: page
-title: "Recruiting for a Campus Provost and Executive Vice Chancellor"
+title: "Recruiting a Campus Provost and Executive Vice Chancellor"
+related:
+  - title: "CP/EVC search"
+    url: "/cpevc-search/"
+  - title: "Search Advisory Committee"
+    url: "/cpevc-search/committee/"
+  - title: "Apply"
+    url: "/cpevc-search/#to-apply"
+  - title: "Timeline"
+    url: "/cpevc-search/#preliminary-recruitment-timeline"
+  - title: "Questions"
+    url: "/cpevc-search/#questions"    
 ---
 
 ## About the position

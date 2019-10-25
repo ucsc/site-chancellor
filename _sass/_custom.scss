@@ -31,7 +31,7 @@
         bottom: 0;
         z-index: 1;
         position: relative;
-        
+
         .text {
             position: absolute;
             bottom: 2em;
@@ -44,14 +44,14 @@
 
             h2, p {
                 color: rgba(7, 71, 138, 1.00);
-                margin: 0 0 .25em 0;            
+                margin: 0 0 .25em 0;
             }
 
             h2 {
                 font-weight: 600;
             }
-        } 
-    }    
+        }
+    }
 }
 
 .main-navigation .current,
@@ -92,7 +92,7 @@ a:focus-visible {
 
 .main-content > :first-child {
     margin-top: 0;
-    padding-top: 0; 
+    padding-top: 0;
 }
 
 @media screen and (min-width: 48em) {
@@ -109,7 +109,7 @@ a:focus-visible {
     }
 
     .gsc-control-cse {
-        padding: 0 !important; 
+        padding: 0 !important;
     }
 
     #sprflt {
@@ -133,7 +133,7 @@ a:focus-visible {
             font-size: 1.6rem;
             font-weight: 300;
             border: 0;
-            padding: 0 1em;        
+            padding: 0 1em;
         }
 
         span {
@@ -152,3 +152,16 @@ a:focus-visible {
 
 }
 
+@keyframes fadeIt {
+  0%   { background-color: #FFFFFF; }
+  10%  { background-color: #ffff8f; }
+  100% { background-color: #FFFFFF; }
+}
+
+:target {
+  animation: fadeIt 3s ease-in-out;
+}
+
+.cp-evc-search-advisory-committee table tr td:nth-child(odd) {
+  width: 17vw;
+}
