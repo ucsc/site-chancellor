@@ -22,7 +22,7 @@ related:
 Applications should be [sent by email](mailto:UCSCCPEVC@kornferry.com?subject=UCSC-CPEVC) and **must include**:
 - A brief statement of interest and qualifications
 - Current curriculum vitae
-- Statement of contributions to diversity
+- [Statement of contributions to diversity](/cpevc-search/diversity-statement/)
 
 Please submit all materials as PDF files and refer to **UCSC-CPEVC** in all correspondence. You can also [nominate or recommend a colleague](mailto:UCSCCPEVC@kornferry.com?subject=UCSC-CPEVC).
 
