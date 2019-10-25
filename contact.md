@@ -2,7 +2,7 @@
 layout: page
 title: Contact the Chancellor
 menu: "Contact"
-order: 5
+order: 6
 related:
   - title: "Participation request form"
     url: "https://www2.ucsc.edu/chancellor/chancellors-participation-form/"
