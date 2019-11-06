@@ -2,8 +2,8 @@
 layout: home
 menu: false
 hero:
-    url: "/assets/images/getting-ahead-billboard.jpg"
-    text: "Congratulations graduates"
-    headline: "Getting ahead"
-    description: "UC Santa Cruz ranks as the second best university for social mobility according to the latest U.S. News and World Report rankings"
+    url: "/assets/images/aau-billboard.jpg"
+    text: "Students at a white board"
+    headline: "Radical excellence"
+    description: "UC Santa Cruz has joined the 65-member Association of American Universities"
 ---
