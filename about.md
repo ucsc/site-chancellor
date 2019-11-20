@@ -10,7 +10,7 @@ related:
     url: /assets/images/cl-web.jpg
 ---
 
-{% asset designate-web.jpg @magick:resize=672 alt='Cynthia K. Larive' %}
+{% asset designate-web.jpg magick:resize=790 alt='Cynthia K. Larive' %}
 
 Cynthia K. Larive was confirmed as the eleventh Chancellor of University of California Santa Cruz by the UC Board of Regents on May 16, 2019. She began her tenure on July 1, 2019.
 

@@ -14,7 +14,7 @@ By Jennifer McNulty
 
 Collaborative. Energetic. Prepared. Ready to engage.
 
-These are a few of the ways members of the chancellor's search committee described [incoming chancellor Cynthia K. Larive](https://leadership.ucsc.edu/announcements/ucop/), who will take office July 1.
+These are a few of the ways members of the chancellor's search committee described [incoming chancellor Cynthia K. Larive](/announcements/ucop/), who will take office July 1.
 
 "I have the sense that she's really a person who can bring groups together," said Carl Walsh, distinguished professor of economics at UC Santa Cruz and chair of the faculty subcommittee that reviewed hundreds of potential candidates for the top job.
 
@@ -22,7 +22,7 @@ Larive, a professor of chemistry and the executive vice chancellor at UC Riversi
 
 "She emphasized the importance of all parts of the UC mission---research, teaching, and service---but what was unique about her interview was that she had looked in detail at the campus, identified an issue she wanted to talk about, and brought concrete suggestions of what she'd like to do about it," said Walsh.
 
-That particular issue---student retention and graduation rates---was one of the priorities Larive mentioned in [public remarks](https://leadership.ucsc.edu/announcements/remarks/) made following the UC Regents' approval today (May 16, 2019) of her selection as the 11th chancellor of UC Santa Cruz. She also emphasized her commitment to diversity---and her intention to implement the Strategic Academic Plan.
+That particular issue---student retention and graduation rates---was one of the priorities Larive mentioned in [public remarks](/announcements/remarks/) made following the UC Regents' approval today (May 16, 2019) of her selection as the 11th chancellor of UC Santa Cruz. She also emphasized her commitment to diversity---and her intention to implement the Strategic Academic Plan.
 
 "What impressed me about Cindy was that she thinks about the mismatches between what we say we want to do, what we're currently doing, and the concrete things we can do to achieve our goals," said Walsh, speculating that Larive's experience as executive vice chancellor---as well as department chair and dean before that---honed that "problem solver" approach. "As a candidate, she displayed a more granular understanding of Santa Cruz and the campus's issues."
 
