@@ -12,8 +12,8 @@ layout: default
         {% assign c = page.collection %}
 
         <ul class="{{ c }}">
-        
-        {% if page.data == 'messages' %}          
+
+        {% if page.data == 'messages' %}
             {% for link in site.data[page.data] %}
               <li>{{ link.date | date: "%B %d, %Y" }} - <a href="{{ link.url }}">{{ link.title }}</a>
               </li>
@@ -32,7 +32,7 @@ layout: default
               </a>
             </li>
           {% endfor %}
-        
+
         {% else %}
 
           {% for item in site[c] %}
