@@ -32,8 +32,7 @@ related:
 ## Staff Support
 
 | John Amer | Consultant, Korn Ferry |
-| Peter McDermott | Consultant, Korn Ferry |
 | Andrea Cohen | Special Assistant to the Vice Provost, Academic Affairs |
 | Lydia Zendejas | Staff Fellow, CP/EVC Office |
 
-_Revised 10/24/2019_
+_Revised 01/06/2020_

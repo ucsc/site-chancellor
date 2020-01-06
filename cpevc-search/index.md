@@ -17,7 +17,7 @@ related:
 ---
 
 ## About the position
-[See the position description](/assets/pdfs/cpevc-position-description.pdf) and [job announcement flyer](/assets/pdfs/cpevc-search-2019.pdf) for more information.  
+See the [position description](/assets/pdfs/cpevc-position-description.pdf), [leadership profile](/assets/pdfs/cpevc-leadership-profile.pdf), and [job announcement flyer](/assets/pdfs/cpevc-search-2019.pdf) for more information.  
 
 ## To apply
 
@@ -41,4 +41,4 @@ Please submit all materials as PDF files and refer to **UCSC-CPEVC** in all corr
 
 Contact Andrea Cohen [via email](mailto:cpevc-search@ucsc.edu) or telephone 831-459-2380. Applicants may also contact executive search consultant [John Amer via email](mailto:John.Amer@kornferry.com).
 
-_Revised 10/21/2019_
+_Revised 01/06/2020_
