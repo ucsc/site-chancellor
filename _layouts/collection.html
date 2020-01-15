@@ -15,7 +15,7 @@ layout: default
 
         {% if page.data == 'messages' %}
             {% for link in site.data[page.data] %}
-              <li>{{ link.date | date: "%B %d, %Y" }} - <a href="{{ link.url }}">{{ link.title }}</a>
+              <li><span>{{ link.date | date: "%b %-d, %Y" }}</span> <a href="{{ link.url }}">{{ link.title }}</a>
               </li>
             {% endfor %}
         {% endif %}
@@ -25,7 +25,7 @@ layout: default
           {% for item in site[c] %}
             <li>
               <a href="{{ item.link }}">
-                <span class="date">{{ item.date | date: "%B %d, %Y" }} - </span>
+                <span class="date">{{ item.date | date: "%b %d, %Y" }} - </span>
                 <span class="source">{{ item.source }}</span>
                 <h3>{{ item.title }}</h3>
                 {{ item.content | markdownify }}
@@ -36,7 +36,7 @@ layout: default
         {% else %}
 
           {% for item in site[c] %}
-              <li>{{ item.date | date: "%B %d, %Y" }} - <a href="{{ item.url }}">{{ item.title }}</a></li>
+              <li><span>{{ item.date | date: "%b %-d, %Y" }}</span> <a href="{{ item.url }}">{{ item.title }}</a></li>
           {% endfor %}
 
         {% endif %}
