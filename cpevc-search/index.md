@@ -8,8 +8,6 @@ related:
     url: "/cpevc-search/"
   - title: "Search Advisory Committee"
     url: "/cpevc-search/committee/"
-  - title: "Apply"
-    url: "/cpevc-search/#to-apply"
   - title: "Timeline"
     url: "/cpevc-search/#preliminary-recruitment-timeline"
   - title: "Questions"
@@ -17,7 +15,46 @@ related:
 ---
 
 ## About the position
-See the [position description](/assets/pdfs/cpevc-position-description.pdf), [leadership profile](/assets/pdfs/cpevc-leadership-profile.pdf), and [job announcement flyer](/assets/pdfs/cpevc-search-2019.pdf) for more information.  
+See the [position description](/assets/pdfs/cpevc-position-description.pdf), [leadership profile](/assets/pdfs/cpevc-leadership-profile.pdf), and [job announcement flyer](/assets/pdfs/cpevc-search-2019.pdf) for more information.
+
+
+## Meet the finalists
+
+- Candidate finalists will visit campus February 24 through March 6, 2020 (see the schedule below). Campus constituents are invited to attend various meetings and their public talks. 
+- Visit [this Google document](https://docs.google.com/document/d/1V36XZXIxGBnGh1oFUGoqom70HCKwLgqkkIBagCB-mOQ/edit?usp=sharing) (accessible by logging into your @ucsc.edu Google Drive) for candidate names, CVs, and related information which will be added five days before their visit.
+- Live streams of each candidate's talks will be available. [See the Google Doc for links](https://docs.google.com/document/d/1V36XZXIxGBnGh1oFUGoqom70HCKwLgqkkIBagCB-mOQ/edit?usp=sharing) to the live streams.
+
+To respect candidate privacy and the integrity of the process, please do not share candidate names, CVs, visit schedules, or related links outside of the UC Santa Cruz community. 
+
+### Public Talks
+
+#### Candidate A
+
+| Type of presentation | Day and time | Location |
+|---|---|---|
+| Vision Talk | Monday, February 24, 10:30-11:30 a.m. | Stevenson Event Center | 
+| Scholarly Research Talk, with a reception to follow | Tuesday, February 25, 3:30-5:00 | 240 Physical Sciences Building (PSB) |
+
+#### Candidate B
+
+| Type of presentation | Day and time | Location |
+|---|---|---|
+| Vision Talk | Thursday, February 27, 10:30-11:30 a.m. | Stevenson Event Center |
+| Scholarly Research Talk, with a reception to follow | Friday, February 28, 3:30-5:00 | 300 Biomedical Sciences |
+
+#### Candidate C
+
+| Type of presentation | Day and time | Location |
+|---|---|---|
+| Vision Talk | Monday, March 2, 10:30-11:30 a.m. | Stevenson Event Center |
+| Scholarly Research Talk with a reception to follow | Tuesday, March 3, 3:30-5:00 | 240 Physical Sciences Building (PSB) |
+
+#### Candidate D
+
+| Type of presentation | Day and time | Location |
+|---|---|---|
+| Vision Talk | Thursday, March 5, 10:30-11:30 a.m. | Stevenson Event Center |
+| Scholarly Research Talk with a reception to follow | Friday, March 6, 3:30-5:00 | 240 Physical Sciences Building (PSB) |
 
 ## To apply
 
@@ -28,7 +65,7 @@ Applications should be [sent by email](mailto:UCSCCPEVC@kornferry.com?subject=UC
 
 Please submit all materials as PDF files and refer to **UCSC-CPEVC** in all correspondence. You can also [nominate or recommend a colleague](mailto:UCSCCPEVC@kornferry.com?subject=UCSC-CPEVC).
 
-## _Preliminary_ recruitment timeline
+## Recruitment timeline
 
 | October 2019 – January 2020 | Publicity and Outreach |
 | January 10, 2020 | Initial Review Date |
@@ -39,6 +76,6 @@ Please submit all materials as PDF files and refer to **UCSC-CPEVC** in all corr
 
 ## Questions?
 
-Contact Andrea Cohen [via email](mailto:cpevc-search@ucsc.edu) or telephone 831-459-2380. Applicants may also contact executive search consultant [John Amer via email](mailto:John.Amer@kornferry.com).
+Contact Andrea Cohen [via email](mailto:cpevc-search@ucsc.edu) or telephone 831-459-2380.
 
-_Revised 01/06/2020_
+_Revised 2020-02-12_
