@@ -22,9 +22,10 @@ See the [position description](/assets/pdfs/cpevc-position-description.pdf), [le
 
 ## Meet the finalists
 
-- Candidate finalists will visit campus February 24 through March 6, 2020 (see the schedule below). Campus constituents are invited to attend various meetings and their public talks. 
+- Candidate finalists will visit campus February 24 through March 6, 2020 (see the schedule below). Campus constituents are invited to attend various meetings and their public talks.
+  - Public talks will be video recorded and made available after March 6. 
+  - Vision Talks will be live streamed, and links will be added to the internal Google document. 
 - Visit [this Google document](https://docs.google.com/document/d/1V36XZXIxGBnGh1oFUGoqom70HCKwLgqkkIBagCB-mOQ/edit?usp=sharing) (accessible by logging into your @ucsc.edu Google Drive) for candidate names, CVs, and related information which will be added five days before their visit.
-- Live streams of each candidate's talks will be available. [See the Google Doc for links](https://docs.google.com/document/d/1V36XZXIxGBnGh1oFUGoqom70HCKwLgqkkIBagCB-mOQ/edit?usp=sharing) to the live streams.
 
 To respect candidate privacy and the integrity of the process, please do not share candidate names, CVs, visit schedules, or related links outside of the UC Santa Cruz community. 
 
