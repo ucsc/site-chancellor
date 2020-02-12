@@ -6,6 +6,8 @@ order: 5
 related:
   - title: "CP/EVC search"
     url: "/cpevc-search/"
+  - title: "Public talks"
+    url: "#public-talks"    
   - title: "Search Advisory Committee"
     url: "/cpevc-search/committee/"
   - title: "Timeline"
