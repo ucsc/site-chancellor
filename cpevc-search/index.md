@@ -11,7 +11,7 @@ related:
   - title: "Search Advisory Committee"
     url: "/cpevc-search/committee/"
   - title: "Timeline"
-    url: "/cpevc-search/#preliminary-recruitment-timeline"
+    url: "/cpevc-search/#recruitment-timeline"
   - title: "Questions"
     url: "/cpevc-search/#questions"    
 ---
