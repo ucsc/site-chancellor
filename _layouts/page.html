@@ -11,14 +11,14 @@ layout: default
 {% endif %}
 <div class="row" id="{{ page_id }}" class="{{ page_class }}">
   <div class="main-content" id="main" role="main">
-    
+
     <h1 class="page-title" id="title">{{ page.title }}</h1>
 
-    {% if page.image %}
+    {% if page.banner %}
     <div class="banners bannerBox" id="bannerBox">
-      <img alt="{{ page.image.text }}" id="banner" src="{{ page.image.url }}">
+      <img alt="{{ page.banner.text }}" id="banner" src="{{ page.banner.url }}">
       {% if page.image.description %}
-      <p class="caption">{{ page.image.description }}</p>
+      <p class="caption">{{ page.banner.description }}</p>
       {% endif %}
     </div>
     {% endif %}
@@ -26,18 +26,18 @@ layout: default
     <div class="content contentBox">
       {{ content }}
     </div>
-    
+
   </div>
-  
-  {% if page.related %}                  
+
+  {% if page.related %}
     <div class="sidebar" id="subNav" role="navigation">
-            
+
     <ul>
     {% for link in page.related %}
-      <li><a href="{{ link.url }}">{{ link.title }}</a></li>      
+      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
     {% endfor %}
     </ul>
-  
+
     </div>
   {% endif %}
 

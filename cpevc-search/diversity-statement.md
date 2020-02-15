@@ -9,7 +9,7 @@ related:
   - title: "Apply"
     url: "/cpevc-search/#to-apply"
   - title: "Timeline"
-    url: "/cpevc-search/#preliminary-recruitment-timeline"
+    url: "/cpevc-search/#recruitment-timeline"
   - title: "Questions"
     url: "/cpevc-search/#questions"    
 ---
