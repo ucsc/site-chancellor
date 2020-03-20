@@ -21,16 +21,30 @@ See the [position description](/assets/pdfs/cpevc-position-description.pdf), [le
 
 ## Meet the finalists
 
-- Finalist visits, originally planned in late February and early March, will be postponed and rescheduled for Spring quarter.
+- Candidate finalists plan to visit campus using remote technology March 30 through April 10, 2020. Campus constituents are invited to attend various meetings and their public presentations (see below) which will be delivered via Zoom.
+- [Visit this Google document](https://docs.google.com/document/d/1V36XZXIxGBnGh1oFUGoqom70HCKwLgqkkIBagCB-mOQ/edit?usp=sharing) [accessible by logging into your @ucsc.edu Google Drive] for candidate names, CVs, and related information which will be added five days before their visit. 
 
-## To apply
+To respect candidate privacy and the integrity of the process, 
+__please do not share candidate names, CVs, visit schedules, or related links__
+outside of the UC Santa Cruz community. 
 
-Applications should be [sent by email](mailto:UCSCCPEVC@kornferry.com?subject=UCSC-CPEVC) and **must include**:
-- A brief statement of interest and qualifications
-- Current curriculum vitae
-- [Statement of contributions to diversity](/cpevc-search/diversity-statement/)
+### Public Talks
 
-Please submit all materials as PDF files and refer to **UCSC-CPEVC** in all correspondence. You can also [nominate or recommend a colleague](mailto:UCSCCPEVC@kornferry.com?subject=UCSC-CPEVC).
+#### Candidate A
+- CP/EVC Vision Talk on Monday, March 30, 10:30-11:30 a.m.
+- Scholarly Research Talk on Tuesday, March 31, 3:30-4:30 p.m.
+
+#### Candidate B  
+- CP/EVC Vision Talk on Thursday, April 2, 10:30-11:30 a.m.
+- Scholarly Research Talk on Friday, April 3, 3:30-4:30 p.m.
+
+#### Candidate C  
+- CP/EVC Vision Talk on Monday, April 6, 10:30-11:30 a.m.
+- Scholarly Research Talk on Tuesday, April 7, 3:30-4:30 p.m.
+
+#### Candidate D
+- CP/EVC Vision Talk on Thursday, April 9, 10:30-11:30 a.m.
+- Scholarly Research Talk on Friday, April 10, 3:30-4:30 p.m.
 
 ## Recruitment timeline
 
@@ -38,11 +52,11 @@ Please submit all materials as PDF files and refer to **UCSC-CPEVC** in all corr
 | January 10, 2020 | Initial Review Date |
 | January 2020 | - Initial Applicant Selection<br>- First Round Applicant Interviews |
 | January–February 2020 | Selection of Candidates for Campus Visits |
-| February–March 2020 | Finalists Visit Campus |
-| March–April 2020 | Selection of Final Candidate |
+| March–April 2020 | Finalists Visit Campus |
+| April 2020 | Selection of Final Candidate |
 
 ## Questions?
 
 Contact Andrea Cohen [via email](mailto:cpevc-search@ucsc.edu) or telephone 831-459-2380.
 
-_Revised 2020-02-12_
+_Revised 2020-03-19_
