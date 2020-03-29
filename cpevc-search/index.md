@@ -21,7 +21,7 @@ See the [position description](/assets/pdfs/cpevc-position-description.pdf), [le
 
 ## Meet the finalists
 
-- Candidate finalists plan to visit campus using remote technology March 30 through April 10, 2020. Campus constituents are invited to attend various meetings and their public presentations (see below) which will be delivered via Zoom.
+- Candidate finalists plan to visit campus using remote technology April 2–10, 2020. Campus constituents are invited to attend various meetings and their public presentations (see below) which will be delivered via Zoom.
 - [Visit this Google document](https://docs.google.com/document/d/1V36XZXIxGBnGh1oFUGoqom70HCKwLgqkkIBagCB-mOQ/edit?usp=sharing) [accessible by logging into your @ucsc.edu Google Drive] for candidate names, CVs, and related information which will be added five days before their visit. 
 
 To respect candidate privacy and the integrity of the process, 
@@ -30,19 +30,15 @@ outside of the UC Santa Cruz community.
 
 ### Public Talks
 
-#### Candidate A
-- CP/EVC Vision Talk on Monday, March 30, 10:30-11:30 a.m.
-- Scholarly Research Talk on Tuesday, March 31, 3:30-4:30 p.m.
-
-#### Candidate B  
+#### Candidate A  
 - CP/EVC Vision Talk on Thursday, April 2, 10:30-11:30 a.m.
 - Scholarly Research Talk on Friday, April 3, 3:30-4:30 p.m.
 
-#### Candidate C  
+#### Candidate B  
 - CP/EVC Vision Talk on Monday, April 6, 10:30-11:30 a.m.
 - Scholarly Research Talk on Tuesday, April 7, 3:30-4:30 p.m.
 
-#### Candidate D
+#### Candidate C
 - CP/EVC Vision Talk on Thursday, April 9, 10:30-11:30 a.m.
 - Scholarly Research Talk on Friday, April 10, 3:30-4:30 p.m.
 
@@ -59,4 +55,4 @@ outside of the UC Santa Cruz community.
 
 Contact Andrea Cohen [via email](mailto:cpevc-search@ucsc.edu) or telephone 831-459-2380.
 
-_Revised 2020-03-19_
+_Revised 2020-03-22_
