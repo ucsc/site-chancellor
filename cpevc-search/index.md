@@ -35,7 +35,7 @@ outside of the UC Santa Cruz community.
 - Scholarly Research Talk on Friday, April 3, 3:30-4:30 p.m.
 
 #### Candidate B  
-- CP/EVC Vision Talk on Monday, April 6, 10:30-11:30 a.m.
+- CP/EVC Vision Talk on Monday, April 6, 12:00-1:00 p.m.
 - Scholarly Research Talk on Tuesday, April 7, 3:30-4:30 p.m.
 
 #### Candidate C
