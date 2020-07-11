@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "Recruiting a Campus Provost and Executive Vice Chancellor"
-menu: "CP/EVC Search"
-order: 5
 related:
   - title: "CP/EVC search"
     url: "/cpevc-search/"
