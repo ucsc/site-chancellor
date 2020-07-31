@@ -14,6 +14,7 @@ Each of the standing advisory committees listed below provides a forum for gathe
 
 - [Staff Advisory Board](/assets/pdfs/sab.pdf) (SAB)
 - [Cabinet](/assets/pdfs/cabinet.pdf)
+- [Campus Safety Community Advisory Board](https://news.ucsc.edu/2020/07/updates-on-community-safety-services.html)
 - [Audit Committee](/assets/pdfs/audit.pdf)
 - [Campus Inclusive Climate Council](/assets/pdfs/cicc.pdf) (CICC)
 - [Executive Committee on Sustainability and Climate](/assets/pdfs/cecscc.pdf) (CECSCC)
