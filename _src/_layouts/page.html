@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% if page.related %}
+{% if page.related or page.left_navigation %}
   {% assign page_id = "sprflt" %}
   {% assign page_class = "left-column" %}
 {% else %}
@@ -29,14 +29,26 @@ layout: default
 
   </div>
 
-  {% if page.related %}
+  {% if page.related or page.left_navigation %}
     <div class="sidebar" id="subNav" role="navigation">
 
+    {% if page.left_navigation %}
+    <h3>In this section</h3>
     <ul>
-    {% for link in page.related %}
-      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
-    {% endfor %}
+      {% for link in site.data[page.left_navigation] %}
+        <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+      {% endfor %}
     </ul>
+    {% endif %}
+
+    {% if page.related %}
+    <h3>Related pages</h3>
+    <ul>
+      {% for link in page.related %}
+        <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
 
     </div>
   {% endif %}

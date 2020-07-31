@@ -188,3 +188,7 @@ a:focus-visible {
     flex: 3 0 50ch;
   }
 }
+
+.sidebar > :first-child {
+  margin-top: 1rem;
+}

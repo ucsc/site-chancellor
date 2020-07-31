@@ -5,6 +5,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://chancellor.ucsc.edu"
 timezone: "America/Los_Angeles"
 
+source: ./_src
+destination: ./_site
+
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:title/
@@ -30,18 +33,3 @@ defaults:
       path: ""
     values:
       image: /assets/images/cl-web.jpg
-
-include:
-  - _redirects
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
