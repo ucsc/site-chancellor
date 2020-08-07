@@ -10,7 +10,7 @@ destination: ./_site
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:month/:title/
+permalink: /communications/:year/:month/:title/
 
 plugins:
   - jekyll-feed
@@ -33,3 +33,14 @@ defaults:
       path: ""
     values:
       image: /assets/images/cl-web.jpg
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      related:
+        - title: "Messages to campus"
+          url: "/communications/"
+        - title: "Campus News"
+          url: "https://news.ucsc.edu"
+        - title: "UC Santa Cruz home page"
+          url: "https://www.ucsc.edu"

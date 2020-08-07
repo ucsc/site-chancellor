@@ -1,67 +1,123 @@
+- url: "/communications/2020/08/testing-partnerships/"
+  title: "COVID-19 testing expansion shows power of partnerships"
+  date: 2020-08-07 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/07/welcoming-new-uc-president-michael-drake.html"
+  title: "Welcoming new UC President Michael Drake"
+  date: 2020-07-07 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/07/updates-on-community-safety-services.html"
+  title: "Updates on community safety services and ongoing engagement"
+  date: 2020-07-01 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/06/campus-budget-update.html"
+  title: "Campus budget update"
+  date: 2020-06-30 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/06/daca-decision-and-our-ongoing-commitment.html"
+  title: "DACA Decision and Our Ongoing Commitment to Our Undocumented Community"
+  date: 2020-06-18 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/06/planning-for-academic-year-2020-2021.html"
+  title: "Planning for Academic Year 2020–2021"
+  date: 2020-06-17 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/06/announcing-the-appointment-of-cpevc.html"
+  title: "Announcing the appointment of Campus Provost and Executive Vice Chancellor"
+  date: 2020-06-12 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/06/announcing-appt-of-vcur.html"
+  title: "Announcing the appointment of Vice Chancellor University Relations"
+  date: 2020-06-11 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/06/anti-racism-and-equity-in-academia.html"
+  title: "Anti-Racism and Equity in Academia"
+  date: 2020-06-10 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/06/covid-survey-update.html"
+  title: "Results from COVID-19 employee experiences survey"
+  date: 2020-06-02 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/05/statement-on-george-floyd.html"
+  title: "Statement on George Floyd"
+  date: 2020-05-29 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/05/division-of-student-success-transition.html"
+  title: "Division of Student Success Transition"
+  date: 2020-05-11 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/05/response-to-new-federal-title-ix-regulations.html"
+  title: "Response to new federal Title IX regulations"
+  date: 2020-05-07 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://news.ucsc.edu/2020/05/commencement-updates.html"
   title: "Commencement Updates"
   date: 2020-05-06 14:00:00
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
+- url: "https://news.ucsc.edu/2020/05/supporting-our-students-w-cares-funding.html"
+  title: "Supporting our students with CARES funding"
+  date: 2020-05-04 10:00:00
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://news.ucsc.edu/2020/05/recovery-planning.html"
   title: "Recovery planning"
   date: 2020-05-04 14:00:00
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://news.ucsc.edu/2020/04/sad-news-about-our-campus-employee.html"
   title: "Sad news about our campus employee"
   date: 2020-04-14 12:00:00
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://news.ucsc.edu/2020/04/spring-quarter-updates.html"
   title: "Spring quarter updates"
   date: 2020-04-03 12:00:00
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://news.ucsc.edu/2020/03/a-thank-you-to-our-staff.html"
-  title: "A \"thank you\" to our staff"
+  title: 'A "thank you" to our staff'
   date: 2020-03-20 15:30:00
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://news.ucsc.edu/2020/03/candidates-for-cpevc-to-make-virtual-campus-visits.html"
   title: "Candidates for CPEVC to make virtual campus visits"
   date: 2020-03-20 13:30:00
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://news.ucsc.edu/2020/01/chancellor-new-graduate-student-programs.html"
   title: "Announcing two new programs to support graduate students"
   date: 2020-01-27 13:30:00
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://news.ucsc.edu/2020/01/sad-news-on-campus-benefactor-jack-baskin.html"
   title: "Sad news on campus benefactor Jack Baskin"
   date: 2020-01-14 17:00:00
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://news.ucsc.edu/2019/11/standing-in-solidarity.html"
   title: "Standing in solidarity with our undocumented community"
   date: 2019-11-12 8:00:00
-  tags: ["chancellor","cpevc","cynthia-larive","lori-kletzer"]
+  tags: ["chancellor", "cpevc", "cynthia-larive", "lori-kletzer"]
 - url: "https://news.ucsc.edu/2019/11/ucsc-earns-prestigious-honor-aau-membership.html"
   title: "UC Santa Cruz earns prestigious honor — membership in AAU"
   date: 2019-11-06 10:00:00
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://news.ucsc.edu/2019/10/campus-provost-executive-vice-chancellor-search.html"
   title: "Campus provost and executive vice chancellor search"
   date: 2019-10-31 10:00:00
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://news.ucsc.edu/2019/09/chancellor-welcome.html"
   title: "New academic year, new possibilities"
   date: 2019-09-25 14:00:00
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://drive.google.com/a/ucsc.edu/file/d/1-QXyW-Y4QeYolIwMr9HuWQxSZeAOlWjn/view?usp=sharing"
   title: "September 2019 Vision Presentation"
   date: 2019-09-10 08:00:00
 - url: "https://news.ucsc.edu/2019/07/gun-violence-in-gilroy.html"
   title: "Gun violence in Gilroy"
-  tags: ["chancellor","cpevc","cynthia-larive","lori-kletzer"]
+  tags: ["chancellor", "cpevc", "cynthia-larive", "lori-kletzer"]
   date: 2019-07-29 14:20:20
 - url: "https://news.ucsc.edu/2019/07/affirming-the-rights.html"
   title: "Affirming the rights of our undocumented community members"
   date: 2019-07-16 11:08:39
-  tags: ["chancellor","cpevc","cynthia-larive","lori-kletzer"]
+  tags: ["chancellor", "cpevc", "cynthia-larive", "lori-kletzer"]
 - url: "https://news.ucsc.edu/2019/07/first-day-on-the-job.html"
   title: "First day on the job"
   date: 2019-07-01 11:07:29
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
 - url: "https://news.ucsc.edu/2019/05/larive-reaction.html"
   title: "Campus prepares to welcome incoming chancellor Cynthia Larive"
   date: 2019-05-15 09:07:29
-  tags: ["chancellor","cynthia-larive"]
+  tags: ["chancellor", "cynthia-larive"]
