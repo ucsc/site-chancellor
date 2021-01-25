@@ -12,10 +12,13 @@ related:
 Associate Chancellor and Chief of Staff
 
 ## [Teresa Maria Linda Scholz](https://campusdirectory.ucsc.edu/detail.php?type=people&uid=tscholz)
-Interim Assistant Vice Chancellor, Office for Diversity, Equity, and Inclusion
-
+Associate Vice Chancellor, Chief Diversity Officer
+ 
 ## [Margaret McGuire](https://campusdirectory.ucsc.edu/detail.php?type=people&uid=mcguire)
 Executive Assistant to the Chancellor
+
+## [Sonya Kiernan](https://campusdirectory.ucsc.edu/detail.php?type=people&uid=kiernan)
+Executive Assistant to the Associate Chancellor
 
 ## [Jessie Soto](https://campusdirectory.ucsc.edu/detail.php?type=people&uid=jdsoto)
 Events Specialist & Administrative Analyst
