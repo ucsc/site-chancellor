@@ -1,5 +1,16 @@
 # Changelog
 
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 1.0.1 (2021-02-18)
+
+
+### Bug Fixes
+
+* :bug: Update CSP for Google search results ([bbddc60](https://github.com/ucsc/site-chancellor/commit/bbddc603203fafe65306c61f4ec216f1ec7af462))
+
+# Changelog
+
 ## 2019-11-22
 
 * Update revised date ([7e4c6a1](https://github.com/knice/leadership/commit/7e4c6a1))
