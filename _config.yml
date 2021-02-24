@@ -10,7 +10,7 @@ destination: ./_site
 
 # Build settings
 markdown: kramdown
-permalink: /communications/:year/:month/:title/
+# permalink: /communications/:year/:month/:title/
 
 plugins:
   - jekyll-feed
